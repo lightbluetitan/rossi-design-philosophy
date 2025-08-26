@@ -1,6 +1,8 @@
 # Rossi Design Philosophy
 
-<center>![Dragon Logo](https://github.com/lightbluetitan/rossi-design-philosophy/blob/main/images/dragon_rossi_logo.png)</center>
+# Rossi Design Philosophy
+
+<center>![Dragon Logo](https://github.com/lightbluetitan/rossi-design-philosophy/raw/main/images/dragon_rossi_logo.png)</center>
 
 Welcome to the **Rossi Design Philosophy (RDP)** repository! The RDP is a systematic methodology for developing R dataset packages that enhances usability, transparency, and discoverability. Created by Renzo Caceres Rossi, this philosophy addresses challenges in the R ecosystem, such as inconsistent naming conventions and lack of clarity in dataset structures, through standardized principles and practices.
 
