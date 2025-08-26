@@ -4,35 +4,16 @@ This folder provides practical examples of how the **Rossi Design Philosophy (RD
 
 ---
 
-## 1. SouthKoreAPIs
-- **Description**: A package providing South Korean economic and social data APIs, implementing RDP with systematic suffix naming (e.g., `AutoOwnershipKorea_df`, `GasSales_Korea_tbl_df`) and the `view_datasets_SouthKoreAPIs()` function for discoverability.
-- **GitHub URL**: [https://github.com/lightbluetitan/southkoreapis](https://lightbluetitan.github.io/southkoreapis/)
-- **Web Page**: [https://lightbluetitan.github.io/southkoreapis/](https://lightbluetitan.github.io/southkoreapis/)
+## 1. timeSeriesDataSets
+- **Description**: The timeSeriesDataSets package provides a comprehensive collection of time series datasets for R, implementing RDP with systematic suffix naming (e.g., `AirPassengers_ts`, `elecdemand_msts`) .
+- **GitHub URL**: [https://github.com/lightbluetitan/timeseriesdatasets_R](https://github.com/lightbluetitan/timeseriesdatasets_R)
+- **Web Page**: [https://lightbluetitan.github.io/timeseriesdatasets_R/](https://lightbluetitan.github.io/timeseriesdatasets_R/)
 - **Image**: 
-  <center>![SouthKoreAPIs Example](/images/southkoreapis_example.png)</center>
-  *Image shows the `view_datasets_SouthKoreAPIs()` output listing datasets with clear suffixes.*
+  <center>![timeSeriesDataSets Example](/images/timeseriesdatasets_001.png)</center>
+  *Image shows the datasets within timeSeriesDataSets Package with clear suffixes.*
 
 ---
 
-## 2. NeuroDataSets
-- **Description**: A package for neurological and brain research datasets, showcasing RDP's transparent object type documentation (e.g., `_tbl_df`, `_matrix`) and predictable naming conventions.
-- **GitHub URL**: [https://github.com/lightbluetitan/neurodatasets](https://lightbluetitan.github.io/neurodatasets/)
-- **Web Page**: [https://lightbluetitan.github.io/neurodatasets/](https://lightbluetitan.github.io/neurodatasets/)
-- **Image**: 
-  <center>![NeuroDataSets Example](/images/neurodatasets_example.png)</center>
-  *Image depicts a tibble dataset (e.g., `_tbl_df`) with structured documentation following RDP.*
-
----
-
-## 3. ArgentinAPI
-- **Description**: A package offering Argentina government data APIs, utilizing RDP's enhanced discoverability with the `view_datasets_ArgentinAPI()` function and spatial data suffixes (e.g., `_sf`).
-- **GitHub URL**: [https://github.com/lightbluetitan/argentinapi](https://lightbluetitan.github.io/argentinapi/)
-- **Web Page**: [https://lightbluetitan.github.io/argentinapi/](https://lightbluetitan.github.io/argentinapi/)
-- **Image**: 
-  <center>![ArgentinAPI Example](/images/argentinapi_example.png)</center>
-  *Image illustrates the dataset exploration output with spatial data examples.*
-
----
 
 ## Notes on RDP Application
 The Rossi Design Philosophy is a recent proposal (2025), and the packages listed above (SouthKoreAPIs, NeuroDataSets, ArgentinAPI) were developed and are maintained by the same author, Renzo Caceres Rossi. As such, you will not find the `METHODOLOGY.md` file or any formal attribution to the RDP in these packages, as they predate the formalization of the attribution process. However, they embody the RDP principles in practice.
