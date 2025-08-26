@@ -19,7 +19,7 @@ The Rossi Design Philosophy provides a framework for creating professional, user
 3. **Enhanced Discoverability**: Includes a `view_datasets_PackageName()` function for easy exploration of package datasets.
 4. **User-Centric Documentation**: Explicitly states object types in dataset names and documentation.
 
-The RDP has been successfully implemented in over 20 CRAN packages, such as [SouthKoreAPIs](https://lightbluetitan.github.io/southkoreapis/) and [NeuroDataSets](https://lightbluetitan.github.io/neurodatasets/), and is currently being taught in the ["Desarrollo de Paquetes en R" course](#course-details) at Universidad de Piura (August 23 - September 20, 2025).
+The RDP has been successfully implemented in over 20 CRAN packages, such as [MexicoDataAPI](https://lightbluetitan.github.io/mexicodataapi/) and [NeuroDataSets](https://lightbluetitan.github.io/neurodatasets/), and is currently being taught in the ["Desarrollo de Paquetes en R" course](#course-details) at Universidad de Piura (August 23 - September 20, 2025).
 
 ---
 
