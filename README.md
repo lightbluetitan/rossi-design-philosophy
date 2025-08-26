@@ -57,7 +57,7 @@ The RDP is being taught in the **"Desarrollo de Paquetes (Packages) en R"** cour
 - **Participants**: Students from Peru and Colombia
 - **Outcomes**: Students develop and publish professional R packages on CRAN following the RDP.
 
-In the course, students are encouraged to include a `METHODOLOGY.md` file for academic recognition (see [course/](#course-details)), but this is **not required** outside the course context or in general use.
+In the course, students are encouraged to include a `METHODOLOGY.md` file for academic recognition (see [course/](course/)), but this is **not required** outside the course context or in general use.
 
 ---
 
